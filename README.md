@@ -1,16 +1,22 @@
-### Hi there 👋
+### 嘿, 我是琴里里 👋
 
-<!--
-**Kotori0629/Kotori0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 关于琴里里
 
-Here are some ideas to get you started:
+✨ 我可是初学开发者, 但我并不能处理非常多的代码, 但我仍在努力中...
+🔭 目前是一位自由工作者, 工作于浙江昱通网络科技有限公司
+🤔 一名Minecraft爱好者, 但我并不喜欢玩, 我只想凭借自己能力给Minecraft贡献一些...
+⚡ 我有几位好朋友, 他们都在我的following中
+📫 喜欢的语言是Java, 非常想多学一门语言呢..
+🌱 喜欢的代码编辑器当然是 Intellij IDEA啦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 关于我的项目
+
+⚡ 这个项目叫做[**LoliServer**](https://github.com/Loli-Server)啦
+它是一个Minecraft的混合核心, 它基于Forge 但融合了Bukkit API与Spigot API.
+它可以同时安装Forge Mod 以及 Bukkit 插件, 这听起来很强大, 但遇到的问题并不少.
+但我因为它成长, 我觉得它非常优秀.
+
+<br/>
+<br/>
+<img align="left" alt="Shawiiz_z's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotori0629&show_icons=true&hide_border=true&theme=radical" />
+<img align="right" alt="Shawiiz_z's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kotori0629&show_icons=true&hide_border=true&theme=radical" />
