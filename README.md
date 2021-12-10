@@ -28,5 +28,4 @@
 
 <br/>
 <br/>
-<img align="left" alt="Kotori0629's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotori0629&show_icons=true&hide_border=true&theme=radical" />
-<img align="right" alt="Kotori0629's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kotori0629&show_icons=true&hide_border=true&theme=radical" />
+<img align="center" alt="Kotori0629's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kotori0629&show_icons=true&hide_border=true&theme=radical" />
