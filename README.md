@@ -25,7 +25,7 @@
 <br/>
 现在, 我在[**CatServer**](https://github.com/Luohuayu/CatServer)贡献代码
 <br/>
-但我因为它成长, 我觉得它非常优秀.
+但我因为它成长, 我觉得它非常优秀!
 <br/>
 
 <br/>
